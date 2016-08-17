@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Cameron Brannelly!"
 date:   2016-08-17 13:24:16 -0400
 categories: jekyll update
 ---
